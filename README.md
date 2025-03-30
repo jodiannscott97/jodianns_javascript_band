@@ -1,1 +1,1 @@
-# jodianns_javascript_basics
+# jodianns_javascript_band
